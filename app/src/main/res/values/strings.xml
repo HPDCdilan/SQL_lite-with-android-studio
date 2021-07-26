@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SQL</string>
+    <string name="customer_age">Age</string>
+    <string name="customer_name">Customer Name</string>
+    <string name="active_customer">Active Customer</string>
+
+</resources>
